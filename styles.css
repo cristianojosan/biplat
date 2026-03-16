@@ -111,7 +111,7 @@ body {
     align-items: center;
     justify-content: center;
     background: linear-gradient(135deg, var(--color-bg) 0%, var(--color-bg-alt) 100%);
-    background-image: url("images/hero-bg.png");
+    background-image: url("images/hero-bg.webp");
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
